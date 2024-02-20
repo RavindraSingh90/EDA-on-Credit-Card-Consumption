@@ -2,7 +2,7 @@
 
 Understanding customers spend & repayment behavior by addressing following questions
 
-1. From the above dataset create the following summaries:
+### 1. From the above dataset create the following summaries:
 
  - a. How many distinct customers exist?
 
@@ -22,9 +22,9 @@ Understanding customers spend & repayment behavior by addressing following quest
 
  - i. Who are the top 10 customers in terms of repayment?
 
-2. Calculate the city wise spend on each product on yearly basis. Also include a graphical representation for the same.
+### 2. Calculate the city wise spend on each product on yearly basis. Also include a graphical representation for the same.
 
-4. Visualizations for
+### 4. Visualizations for
  - a. Monthly comparison of total spends, city wise
  - b. Comparison of yearly spend on air tickets
  - c. Comparison of monthly spend for each product (look for any seasonality  that exists in terms of spend)
